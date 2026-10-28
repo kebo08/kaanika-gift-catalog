@@ -16,7 +16,11 @@ Enable GitHub Pages from the `main` branch, `/ (root)`. No build process or serv
 
 ## Content and images
 
-The photographs were supplied by the catalog owner. Generic gift bag and game-card previews are explicitly marked as illustrations. Laptop bag photos show reference colours. No Splunk branding or gift box is used.
+Product visuals combine matching transparent assets from the original catalog with AI-generated cutouts guided by the owner's reference photographs. Gift bags, game cards and the animated packaging are illustrative. No Splunk branding or gift box is used.
+
+## Bag animation
+
+The bag opens in separate front and back layers. Products rise from the dock, fall through the opening, and disappear behind the front panel before the handles settle closed. Watch/replay controls run the packing sequence; the bag can be reopened. Gift-bag and laptop-bag presentations match their respective combos.
 
 ## Accessibility
 
